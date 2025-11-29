@@ -24,6 +24,7 @@
 
 <h2 align="center">My Certifications:</h2>
 
+- **Vibe Coding** - SoloLearn *(November 2025)*
 - **Cisco Certified Support Technician Networking** - Certiport *(November 2025)*
 - **Networking - Information Technology Specialist** – Certiport *(October 2025)*
 - **HTML and CSS - Information Technology Specialist** – Certiport *(May 2025)*
