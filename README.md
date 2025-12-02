@@ -24,6 +24,7 @@
 
 <h2 align="center">My Certifications:</h2>
 
+- **Machine Learning for Beginners** - SoloLearn *(December 2025)*
 - **Introduction to Python** - SoloLearn *(November 2025)*
 - **Vibe Coding** - SoloLearn *(November 2025)*
 - **Cisco Certified Support Technician Networking** - Certiport *(November 2025)*
