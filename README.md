@@ -55,18 +55,18 @@
 
 <h2 align="center">Projects and Case Studies:</h2>
 
-- **LANHS Computer Laboratory Login System** *(June 2023)*
-- **Stealth Cafe Game Menu** *(April 2024)*
-- **Math Dungeons** *(May 2024)*
-- **GradeSort Pro** *(August 2024)*
-- **LTO eTicket Prototype** *(October 2024)*
-- **JL Pisonet Game Menu** *(November 2024)*
-- **Steam Wishlist Simulator** *(January 2025)*
-- **BMP Car Rental Prototype** *(April 2025)*
-- **Community Management System** *(September 2025)*
-- **Arduino Home Intruder Alert System** *(October 2025)*
-- **Operation G.H.O.S.T.** *(October 2025)*
 - **iPharmaMart Management System** *(November 2025)*
+- **Operation G.H.O.S.T.** *(October 2025)*
+- **Arduino Home Intruder Alert System** *(October 2025)*
+- **Community Management System** *(September 2025)*
+- **BMP Car Rental Prototype** *(April 2025)*
+- **Steam Wishlist Simulator** *(January 2025)*
+- **JL Pisonet Game Menu** *(November 2024)*
+- **LTO eTicket Prototype** *(October 2024)*
+- **GradeSort Pro** *(August 2024)*
+- **Math Dungeons** *(May 2024)*
+- **Stealth Cafe Game Menu** *(April 2024)*
+- **LANHS Computer Laboratory Login System** *(June 2023)*
 <br>
 
 <h2 align="center">Device Specifications:</h2>
