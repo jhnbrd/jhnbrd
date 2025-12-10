@@ -24,6 +24,7 @@
 
 <h2 align="center">My Certifications:</h2>
 
+- **Agentic Workflows** - SoloLearn *(December 2025)*
 - **AI-Powered A/B Testing** - SoloLearn *(December 2025)*
 - **Machine Learning for Beginners** - SoloLearn *(December 2025)*
 - **Introduction to Python** - SoloLearn *(November 2025)*
