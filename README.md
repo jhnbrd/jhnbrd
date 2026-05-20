@@ -24,6 +24,7 @@
 
 <h2 align="center">My Certifications:</h2>
 
+- **Word 2019 - Microsoft Office Specialist** - Certiport *(March 2026)*
 - **Agentic Workflows** - SoloLearn *(December 2025)*
 - **AI-Powered A/B Testing** - SoloLearn *(December 2025)*
 - **Machine Learning for Beginners** - SoloLearn *(December 2025)*
@@ -56,6 +57,9 @@
 
 <h2 align="center">Projects and Case Studies:</h2>
 
+- **BrewTracks SaaS Cafe Manager** *(June 2026)*
+- **RapidResponse Multinomial Naive Bayes Star Classification Framework** *(May 2026)*
+- **SmartBridge Arduino Seismic Detector and Automatic Bridge Closer** *(March 2026)*
 - **iPharmaMart Management System** *(November 2025)*
 - **Operation G.H.O.S.T.** *(October 2025)*
 - **Arduino Home Intruder Alert System** *(October 2025)*
