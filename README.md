@@ -57,6 +57,7 @@
 
 <h2 align="center">Projects and Case Studies:</h2>
 
+- **NEXUSPHERE Data Driven Event Management System** *(Currently developing)*
 - **BrewTracks SaaS Cafe Manager** *(June 2026)*
 - **RapidResponse Multinomial Naive Bayes Star Classification Framework** *(May 2026)*
 - **SmartBridge Arduino Seismic Detector and Automatic Bridge Closer** *(March 2026)*
@@ -67,7 +68,7 @@
 - **BMP Car Rental Prototype** *(April 2025)*
 - **Steam Wishlist Simulator** *(January 2025)*
 - **JL Pisonet Game Menu** *(November 2024)*
-- **LTO eTicket Prototype** *(October 2024)*
+- **LTO eTicketing System Prototype** *(October 2024)*
 - **GradeSort Pro** *(August 2024)*
 - **Math Dungeons** *(May 2024)*
 - **Stealth Cafe Game Menu** *(April 2024)*
