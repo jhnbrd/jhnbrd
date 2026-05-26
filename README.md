@@ -59,6 +59,7 @@
 
 - **NEXUSPHERE Data Driven Event Management System** *(Currently developing)*
 - **BrewTracks SaaS Cafe Manager** *(June 2026)*
+- **ServerDeck Lightweight Self-hosted App Deployment Control Panel** *(May 2026)*
 - **RapidResponse Multinomial Naive Bayes Star Classification Framework** *(May 2026)*
 - **SmartBridge Arduino Seismic Detector and Automatic Bridge Closer** *(March 2026)*
 - **iPharmaMart Management System** *(November 2025)*
