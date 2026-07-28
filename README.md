@@ -24,6 +24,7 @@
 
 <h2 align="center">My Certifications:</h2>
 
+- **Network Security - Microsoft Office Specialist** - Certiport *(July 2026)* 
 - **Word 2019 - Microsoft Office Specialist** - Certiport *(March 2026)*
 - **Agentic Workflows** - SoloLearn *(December 2025)*
 - **AI-Powered A/B Testing** - SoloLearn *(December 2025)*
