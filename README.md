@@ -45,6 +45,13 @@ I'm a developer based in the Philippines who loves turning ideas into snappy, de
 - 💡 **Things that excite me**: Self-hosting, lightweight dev tooling, offline-first PWAs, backend architecture, and smart IoT automation.
 - 💬 **Feel free to talk to me about**: Tech stacks, networking protocols, anime (huge *Ranking of Kings* fan!), or open-source projects.
 
+<div align="center">
+  <br/>
+  <a href="https://sentigraph.jhnbrd.com/u/jhnbrd" target="_blank">
+    <img src="https://sentigraph.jhnbrd.com/api/card/jhnbrd?theme=modern&mode=dark&feed=latest" alt="Sentigraph" />
+  </a>
+</div>
+
 ---
 
 ## 🚀 Featured Repositories
