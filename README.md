@@ -123,15 +123,16 @@ I'm a developer based in the Philippines who loves turning ideas into snappy, de
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📑 <a href="https://github.com/jhnbrd/bbl-dochelper">bbl-dochelper</a></h3>
+      <h3>👾 <a href="https://github.com/jhnbrd/Bitdoku">Bitdoku</a></h3>
       <p>
-        A clean, lightweight browser extension that provides a non-intrusive one-click action to save embedded course documents and PDFs directly from Blackboard Learn.
+        Cozy retro-tech logic puzzle PWA built on the Star Battle / Queens mechanic. Features tactile synthesized audio, offline-first Dexie/IndexedDB persistence, and daily global leaderboards.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/Productivity-10B981?style=flat-square" />
-        <img src="https://img.shields.io/github/stars/jhnbrd/bbl-dochelper?style=flat-square&color=yellow" />
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/jhnbrd/Bitdoku?style=flat-square&color=yellow" />
       </p>
     </td>
   </tr>
@@ -143,6 +144,7 @@ I'm a developer based in the Philippines who loves turning ideas into snappy, de
 
 | Project | Focus / Tech | Description |
 | :--- | :--- | :--- |
+| **[bbl-dochelper](https://github.com/jhnbrd/bbl-dochelper)** | JavaScript, Chrome Extension | Non-intrusive one-click tool to save embedded course documents & PDFs directly from Blackboard Learn. |
 | **[jhn-drive](https://github.com/jhnbrd/jhn-drive)** | Laravel 12, Alpine.js, Tailwind | Minimalist self-hosted personal cloud storage with per-user quotas & HTTP Range streaming. |
 | **[mcu-film-checklist](https://github.com/jhnbrd/mcu-film-checklist)** | TypeScript, PWA, Offline Storage | Mobile-first offline tracker for Marvel Cinematic Universe films across Phases 1–6. |
 | **NEXUSPHERE** | Laravel, MySQL, TypeScript | High-concurrency event management & attendee scheduling platform. |
