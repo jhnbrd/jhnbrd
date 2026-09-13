@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/dfJW9FCUC1gAAAAM/bojji-bojji-sama.gif" width="280" alt="Bojji - Ranking of Kings" style="border-radius: 12px;" />
+  <img src="./assets/bojji.gif" width="280" alt="Bojji - Ranking of Kings" />
   <br/>
   <em>"Start small, stay persistent, build with heart."</em>
   <br/>
