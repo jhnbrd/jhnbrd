@@ -41,7 +41,7 @@
 
 I'm a developer based in the Philippines who loves turning ideas into snappy, dependable software. I like building things from scratch—whether that's a self-hosted cloud drive with Laravel, custom developer utilities with Python, interactive web apps in React, or hardware prototypes with microcontrollers.
 
-- 🔭 **What I'm currently hacking on**: [jhn-drive](https://github.com/jhnbrd/jhn-drive) (minimalist personal cloud storage) & [ServerDeck](https://github.com/jhnbrd/ServerDeck) (local dev server control dashboard).
+- 🔭 **What I'm currently hacking on**: [Sentigraph](https://github.com/jhnbrd/Sentigraph) (editorial micro-publishing guestbook) & [ServerDeck](https://github.com/jhnbrd/ServerDeck) (local dev server control dashboard).
 - 💡 **Things that excite me**: Self-hosting, lightweight dev tooling, offline-first PWAs, backend architecture, and smart IoT automation.
 - 💬 **Feel free to talk to me about**: Tech stacks, networking protocols, anime (huge *Ranking of Kings* fan!), or open-source projects.
 
@@ -59,15 +59,15 @@ I'm a developer based in the Philippines who loves turning ideas into snappy, de
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📁 <a href="https://github.com/jhnbrd/jhn-drive">jhn-drive</a></h3>
+      <h3>🖋️ <a href="https://github.com/jhnbrd/Sentigraph">Sentigraph</a></h3>
       <p>
-        A minimalist, self-hosted personal cloud drive inspired by modern cloud storage. Built with per-user quotas, instant public file sharing, and fast HTTP Range streaming.
+        Editorial micro-publishing guestbook streaming dynamic, anti-cached SVG sentiment cards to GitHub profiles with broadside typography and visitor endorsements.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Self--Hosted-FF6C37?style=flat-square" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/SVG_Engine-000000?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -143,6 +143,7 @@ I'm a developer based in the Philippines who loves turning ideas into snappy, de
 
 | Project | Focus / Tech | Description |
 | :--- | :--- | :--- |
+| **[jhn-drive](https://github.com/jhnbrd/jhn-drive)** | Laravel 12, Alpine.js, Tailwind | Minimalist self-hosted personal cloud storage with per-user quotas & HTTP Range streaming. |
 | **[mcu-film-checklist](https://github.com/jhnbrd/mcu-film-checklist)** | TypeScript, PWA, Offline Storage | Mobile-first offline tracker for Marvel Cinematic Universe films across Phases 1–6. |
 | **NEXUSPHERE** | Laravel, MySQL, TypeScript | High-concurrency event management & attendee scheduling platform. |
 | **BrewTracks / Brewstride** | React, Node.js, PWA | Cafe management & offline-first point-of-sale platform. |
